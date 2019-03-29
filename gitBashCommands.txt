@@ -1,0 +1,14 @@
+git --version
+
+git config --global user.name "Neha Sinha"
+
+$ git config --global user.email "neha182693@gmail.com"
+
+$ git config --list
+
+$ git config user.email
+
+$ git help
+
+$ git help commit -> opens web page
+
