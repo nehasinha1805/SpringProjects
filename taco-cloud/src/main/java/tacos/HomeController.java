@@ -10,4 +10,9 @@ public class HomeController {
 	public String home() {
 		return "home";
 	}
+	
+	@GetMapping("/design")
+	public String designTacos() {
+		return "design";
+	}
 }
