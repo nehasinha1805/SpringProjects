@@ -11,8 +11,8 @@ public class HomeController {
 		return "home";
 	}
 	
-	@GetMapping("/design")
+	/*@GetMapping("/design")
 	public String designTacos() {
 		return "design";
-	}
+	}*/
 }
